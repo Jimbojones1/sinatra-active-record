@@ -6,6 +6,7 @@ require './controllers/HomeController'
 
 
 # require models
+require './models/UserModel'
 
 #bundle exec rackup
 

@@ -1,0 +1,23 @@
+{
+  "name": "modular_ruby",
+  "version": "1.0.0",
+  "description": "Simple active record crud with migrations",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jimbojones1/sinatra-active-record.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jimbojones1/sinatra-active-record/issues"
+  },
+  "homepage": "https://github.com/Jimbojones1/sinatra-active-record#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  }
+}
